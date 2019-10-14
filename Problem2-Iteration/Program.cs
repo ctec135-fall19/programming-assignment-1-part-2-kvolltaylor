@@ -36,6 +36,10 @@ namespace Problem2Iterations
             Console.WriteLine();
 
             #region 1: for loop
+            // Input: numbers 1 to 5
+            // Process: iterate through each number using a for loop
+            // Output: list of numbers on single line
+
             Console.WriteLine("For loop example:");
             for (int i = 1; i < 6; i++)
             {
@@ -46,6 +50,10 @@ namespace Problem2Iterations
             #endregion
 
             #region 2: while loop
+            // Input: numbers 1 to 5
+            // Process: iterate through each number beginning with one and less than 6
+            // Output: list of numbers on single line
+
             Console.WriteLine("While loop example:");
             int j = 1;
             while (j < 6)
@@ -57,6 +65,10 @@ namespace Problem2Iterations
             #endregion
 
             #region 3: do/while loop
+            // Input: array of numbers 1 to 5
+            // Process: iterate through each number in the array
+            // Output: list of numbers on single line
+
             Console.WriteLine("Do/while loop example:");
             int k = 0;
             int[] l = { 1, 2, 3, 4, 5 };
