@@ -16,6 +16,7 @@ Module 2, Programming Assignment 1 Part 2, Problem 2
         - Region 3: print 1-5 with spaces between the numbers on a single line using a 
           do/while loop
         - HINT: use Write() instead of WriteLine() in the loop body. 
+        
         Follow the loop with a WriteLine() call to insert the newline character at the 
         end of the sequence.
  */
